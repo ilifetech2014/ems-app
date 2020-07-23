@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ilifetech2014.github.io/my-app",
+  "homepage": "http://ilifetech2014.github.io/ems-app",
   "name": "frontend",
   "proxy": "http://127.0.0.1:5000",
   "version": "0.1.0",
