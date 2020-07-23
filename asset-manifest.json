@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ems-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/ems-app/static/js/main.7357d8ee.chunk.js",
+    "main.js.map": "/ems-app/static/js/main.7357d8ee.chunk.js.map",
+    "runtime~main.js": "/ems-app/static/js/runtime~main.32973241.js",
+    "runtime~main.js.map": "/ems-app/static/js/runtime~main.32973241.js.map",
+    "static/js/2.afcf42f9.chunk.js": "/ems-app/static/js/2.afcf42f9.chunk.js",
+    "static/js/2.afcf42f9.chunk.js.map": "/ems-app/static/js/2.afcf42f9.chunk.js.map",
+    "index.html": "/ems-app/index.html",
+    "precache-manifest.177bdb6e913e2ff507219da04e595fc3.js": "/ems-app/precache-manifest.177bdb6e913e2ff507219da04e595fc3.js",
+    "service-worker.js": "/ems-app/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/ems-app/static/css/main.34de6062.chunk.css.map"
+  }
+}
